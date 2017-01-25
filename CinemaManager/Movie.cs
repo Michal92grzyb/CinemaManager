@@ -128,7 +128,7 @@ namespace CinemaManager
             }
             if(didChange)
             {
-                Console.WriteLine("Due to invalid movie name, it was changed to a new one: {0}", name);
+                Console.WriteLine("Due to invalid movie name, it was changed to: {0}", name);
             }
             return name;
         }
