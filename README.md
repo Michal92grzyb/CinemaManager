@@ -1,2 +1,2 @@
 # CinemaManager
-Mi first project, a console program, where you can manage your cinema.
+My first project, a console program, where you can manage your cinema.
